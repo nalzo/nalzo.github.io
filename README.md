@@ -1,3 +1,3 @@
-# (Nalzo's Musings)[https://nalzo.github.io/]
+# [Nalzo's Musings](https://nalzo.github.io/)
 
 A place to jot things down.
